@@ -1,0 +1,9 @@
+# Database configuration (contains credentials)
+LAMPAPI/db_config.php
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
